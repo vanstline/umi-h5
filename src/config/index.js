@@ -1,0 +1,2 @@
+// output
+export * from './menu';
